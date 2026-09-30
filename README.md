@@ -22,14 +22,19 @@ This project is a personal exercise to refresh and improve my front-end developm
 
 This project uses photographs from Unsplash. Full credit goes to the original photographers:
 
+George Pagan III
 ![George Pagan III](img/life-is-art.jpg)
 
+Maurício Guardiano
 ![Maurício Guardiano](img/art-street.avif)
 
+andre mosele
 ![andre mosele](img/music.avif)
 
+Travis Yewell
 ![Travis Yewell](img/no-music-no-life.avif)
 
+Scott Gummerson
 ![Scott Gummerson](img/hand.avif)
 
 All photographs belong to their respective creators. They are used here for educational purposes as part of a personal learning project. All can be found in the Unsplash platform.
