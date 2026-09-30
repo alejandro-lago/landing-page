@@ -79,17 +79,23 @@ header {
 }
 
 .hero-button,
-.container-4 {
+.signup-area {
     background-color: #3882F6;
     color: #F9FAF8;
     border: 0;
 }
 
+.hero-button,
+.signup-button {
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 4px 30px;
+}
+
 .hero-button {
     border-radius: 5px;
     padding: 4px 30px;
-    font-weight: bold;
-    font-size: 18px;
 }
 
 .container-2 {
@@ -153,4 +159,34 @@ header {
     margin-top: 0;
     align-self: flex-end;
     font-weight: 800;
+}
+
+.container-4 {
+    padding: 80px 150px;
+}
+
+.signup-area {
+    width: 100%;
+    border-radius: 6px;
+    padding: 20px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.signup-main-text {
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.signup-secondary-text {
+    margin-top: 0;
+    font-size: smaller;
+}
+
+.signup-button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    color: white;
 }
